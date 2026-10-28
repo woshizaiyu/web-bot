@@ -1,7 +1,0 @@
-.tmp/*
-!.tmp/web
-!.tmp/web-arm64
-*.exe
-*.log
-__pycache__/
-node_modules/
